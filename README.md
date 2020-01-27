@@ -1,7 +1,8 @@
 # Channel load aware AP/Extender selection mechanism
 
 ## Author
-* [Toni Adame](toni.adame@upf.edu)
+* Toni Adame (toni.adame@upf.edu)
+
 Department of Information and Communication Technologies, Universitat Pompeu Fabra (UPF)
 
 ## Execution
